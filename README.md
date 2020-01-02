@@ -1,4 +1,4 @@
-# Improve the usablility of password managers
+# Improve the usablility of password manager
 A very interesting UI/UX Project that aims at improving the usability of password managers
 
 
@@ -10,7 +10,8 @@ Ms Shehzeen, B00812551
 
 Place :  Dalhousie university
 
-Project Summary
+**Project Summary**
+
 Password management is a persistent problem for Internet users in the present day. There is a wide consensus that it is important to choose secure passwords that are not reused on different websites. Unfortunately, many users disregard these advisories.To address this issue, we investigated password managers as a potential solution to this problem. Based on our criteria sourced from the literature review in phase 1, we designed a wireframe prototype. In our proposed study, we engaged  participants to discern their thoughts on our prototype, and inform a future, high-fidelity prototype of a browser-based password manager.
 
 **Project Work Plan**
@@ -18,18 +19,27 @@ Password management is a persistent problem for Internet users in the present da
 **Phase 1**
 In the first phase, we will created and administered an online survey to six of our peers in the laboratory.
 The deliverables for this phase included :
+
 ●	The survey itself.
+
 ●	The anonymized results from the survey.
+
 ●	An analysis of the results, both quantitative and qualitative.
+
 ●	The criteria for a new password manager prototype based on the results of the survey.
 
 **Phase 2**
 
 In the second phase, we l built and iterated on a prototype browser extension, tested it with users in the laboratory, and incorporated their feedback.
+
 The deliverables for this phase included:
+
 ●	All iterations of the prototype password manager extension.
+
 ●	The planned activities and debriefing questionnaire.
+
 ●	The anonymized feedback from our testing users.
+
 ●	An analysis of the results, and pilot study conclusion.
 
 **References**
